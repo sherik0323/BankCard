@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "096C7B07-278E-49C0-8867-A54A2FFB8031"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "703F29F1-4D1E-422F-BD77-C216B3172C5E"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "bankcard/View/VIewManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "42"
+            endingLineNumber = "42"
+            landmarkName = "getCard(colors:balance:cardNumber:cardImage:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "B18E876E-6054-426A-B66A-4C38AE10E497"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "bankcard/View/VIewManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "43"
+            endingLineNumber = "43"
+            landmarkName = "getCard(colors:balance:cardNumber:cardImage:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "B18E876E-6054-426A-B66A-4C38AE10E497 - 8b2c45a548a961b0"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "bankcard.VIewManager.getCard(colors: Swift.Array&lt;Swift.String&gt;, balance: Swift.Float, cardNumber: Swift.Int, cardImage: __C.UIImage) -&gt; __C.UIView"
+                  moduleName = "bankcard"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sherozbek/Desktop/Code%20devevelopment/bankcard/bankcard/View/VIewManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "43"
+                  endingLineNumber = "43"
+                  offsetFromSymbolStart = "112">
+               </Location>
+               <Location
+                  uuid = "B18E876E-6054-426A-B66A-4C38AE10E497 - 8fb149f9dc63d00c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; __C.UIView in bankcard.VIewManager.getCard(colors: Swift.Array&lt;Swift.String&gt;, balance: Swift.Float, cardNumber: Swift.Int, cardImage: __C.UIImage) -&gt; __C.UIView"
+                  moduleName = "bankcard"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sherozbek/Desktop/Code%20devevelopment/bankcard/bankcard/View/VIewManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "44"
+                  endingLineNumber = "44"
+                  offsetFromSymbolStart = "52">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "86C82581-7CA9-46BF-B218-00E27EB017C1"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "bankcard/View/VIewManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "6"
+            endingLineNumber = "6"
+            landmarkName = "unknown"
+            landmarkType = "0">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "42DF1093-93A2-4B66-81C5-C5C9D1F4C197"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "bankcard/View/ViewBuilder.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "217"
+            endingLineNumber = "217"
+            landmarkName = "collectionView(_:didSelectItemAt:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "42DF1093-93A2-4B66-81C5-C5C9D1F4C197 - d6b4de99cd3525e7"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "bankcard.ViewBuilder.collectionView(_: __C.UICollectionView, didSelectItemAt: Foundation.IndexPath) -&gt; ()"
+                  moduleName = "bankcard"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sherozbek/Desktop/Code%20devevelopment/bankcard/bankcard/View/ViewBuilder.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "218"
+                  endingLineNumber = "218"
+                  offsetFromSymbolStart = "2328">
+               </Location>
+               <Location
+                  uuid = "42DF1093-93A2-4B66-81C5-C5C9D1F4C197 - d6b4de99cd3525c0"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "bankcard.ViewBuilder.collectionView(_: __C.UICollectionView, didSelectItemAt: Foundation.IndexPath) -&gt; ()"
+                  moduleName = "bankcard"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sherozbek/Desktop/Code%20devevelopment/bankcard/bankcard/View/ViewBuilder.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "217"
+                  endingLineNumber = "217"
+                  offsetFromSymbolStart = "2288">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
